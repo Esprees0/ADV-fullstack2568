@@ -1,0 +1,29 @@
+{
+  "name": "adv-fullstack2568",
+  "version": "1.0.0",
+  "description": "Repository for class advanced comprogramming 2568",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "prettier --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esprees0/ADV-fullstack2568.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Esprees0/ADV-fullstack2568/issues"
+  },
+  "homepage": "https://github.com/Esprees0/ADV-fullstack2568#readme",
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
